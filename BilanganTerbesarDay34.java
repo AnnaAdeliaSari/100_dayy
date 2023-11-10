@@ -2,7 +2,7 @@ package day_100;
 
 import java.util.Scanner;
 
-public class BilanganTerbesarDay34 {
+public class BilanganTerbesarDay33 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -27,7 +27,6 @@ public class BilanganTerbesarDay34 {
             System.out.println("Bilangan terbesar adalah: " + bilanganTerbesar);
         }
 
-        scanner.close();
     }
 }
 
